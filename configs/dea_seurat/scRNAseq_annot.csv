@@ -1,0 +1,3 @@
+name,data,assay,metadata,control
+Tcell_mem,/Users/bantanai/Desktop/BESE394A/dea_seurat/test_data/mem_se.rds,RNA,cytokine.condition,ALL
+Tcell_naive,/Users/bantanai/Desktop/BESE394A/dea_seurat/test_data/naive_se.rds,RNA,cytokine.condition,ALL
